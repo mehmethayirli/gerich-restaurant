@@ -74,5 +74,5 @@ const Navbar = () => (
     </div>
   </nav>
 );
-//dakika 38. ama 34ten başla 55 havada kaldu
+//dakika 38. ama 34ten başla 55 havada kaldı
 export default Navbar;
