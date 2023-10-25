@@ -55,7 +55,7 @@ const Navbar = () => (
         <ul className="app__navbar-smallscreen-links">
           {/* <li className="p__opensans"><a href="#home">Home</a></li> */}
           <li className="p__opensans">
-            <a href="#home">Home</a>
+            <a href="#home">Home2</a>
           </li>
           <li className="p__opensans">
             <a href="#about">About</a>
